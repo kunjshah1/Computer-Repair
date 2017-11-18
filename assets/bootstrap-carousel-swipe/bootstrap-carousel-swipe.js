@@ -3,7 +3,7 @@
 +function ($) {
     'use strict';
 
-    if ( !$.fn.ygtighcarousel ) {
+    if ( !$.fn.carousel ) {
         return
     }
 
